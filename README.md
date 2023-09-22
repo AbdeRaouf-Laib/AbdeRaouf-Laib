@@ -4,18 +4,14 @@
     Hi, I'm Laib AbdeRaouf
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38">
   </h1>
-
-  <!-- Typing SVG -->
-  <p>
-  </p>
-
+  
   <!-- Social Badges -->
   <p>
     <a href="https://github.com/AbdeRaouf-Laib"?tab=followers">
       <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/AbdeRaouf-Laib?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
     </a>
     <a href="https://github.com/AbdeRaouf-Laib?tab=repositories&sort=stargazers">
-      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/github/stars/nemo256?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/github/stars/AbdeRaouf-Laib?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
     </a>
   </p>
   <p>
