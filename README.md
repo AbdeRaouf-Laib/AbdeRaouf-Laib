@@ -7,7 +7,7 @@
   
   <!-- Social Badges -->
   <p>
-    <a href="https://github.com/AbdeRaouf-Laib"?tab=followers">
+    <a href="https://github.com/AbdeRaouf-Laib"?tab="followers">
       <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/AbdeRaouf-Laib?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
     </a>
     <a href="https://github.com/AbdeRaouf-Laib?tab=repositories&sort=stargazers">
