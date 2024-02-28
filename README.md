@@ -35,6 +35,7 @@
 
   <p>
       <img src="https://skillicons.dev/icons?i=django&theme=dark&perline=6">
+      <img src="https://skillicons.dev/icons?i=react&theme=dark&perline=6">
   </p>
 
 ### 💻 Software and tools
